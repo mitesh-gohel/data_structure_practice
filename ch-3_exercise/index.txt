@@ -1,0 +1,42 @@
+e1.c	To count no. of occurrences of an element in a single linked list
+e2.c 	To find smallest and largest element in a single linked list
+e3.c 	To check whether two single linked lists are identical
+e4.c 	To create a copy of a single linked list
+e5.c 	To create a reverse list, without changing original list
+e6.c	Swap adjacent elements of single linked list : (i) by exchanging info part, (ii) by rearranging links
+e7.c 	Swap Adjacent elements in a double linked list by rearraning list
+e8.c 	Swap First and last elements of a single linked list : (i) by exchanging info part, (ii) by rearranging links
+e9.c	Move the largest element to the end of a single linked list
+e10.c 	Move the smallest element to the end of a single linked list
+e11.c	Delete all nodes that have value n 
+e12.c 	Print a list according to other list. 1st list is sorted single linked list. 2nd list is single linked list. Ex. if 1st sorted linked list is 2->4->1->5>1->3 then, program should print 2nd, 4th, 1st, 5th, 1st, 3rd ele of 2nd linked list
+e13.c	Remove first node of the list and insert it at the end, without changing info part of any node
+e14.c 	Remove the last node of the list and insert it in the beginning, without changing info part of any node
+e15.c	Program to move a node forward n positions
+e16.c	Delete a node when only pointer to it is given 
+e17.c 	Functions to insert a node just before and just after a node pointed to by a pointer p, without using the pointer start
+e18.c	Program to free all nodes of a single linked list 
+e19.c 	Program to delete duplicates from a sorted linked list
+e20.c	Program to delete duplicates from a unsorted linked list
+e21.c	Intersection of two single linked lists
+e22.c	Union of two single linked lists
+e23.c	Delete all the nodes having negative numbers in info part from the list L1 and insert them into list L2 
+	Delete all the nodes having positive numbers in info part from the list L1 and insert them into list L3. 
+	No new nodes to be allocated.
+e24.c	make two linked lists one (L2) having the even numbers of L1 and the other (L3) having the odd numbers of L1. Don't chnage list L1
+e25.c	Delete alternate nodes(even numbered nodes) from a single linked list.
+e26.c	Get the nth node from the end of a single linked list, without counting elements or revering list
+e27.c	Detecting and Removing a cycle/loop in a single linked list 
+e28.c	To find the middle node in a single linked list 
+e29.c 	Split a single linked list into two halves (Means divide linked list into 2 parts)
+e30.c	Split a single linked list into two lists at a given node
+e31.c 	split a single linked list into two lists such that alternate nodes go to different lists. 
+e32.c 	Program to combine alternate nodes of two single linked lists 
+e33.c 	To find merge point of two single linked lists, which are merged in 'Y' shape
+e34.c 	Add two numbers represented by double linked list. In which info part contain digit of number in reverse orlder.
+	Ex. number 342398 should be represented by 8->9->3->2->4->3
+e35.c	Add two numbers represented by double linked list. In which info part contain 4 digits of number in reverse orlder.
+	Ex. number 342398 should be represented by 2398->34
+e36.c	To check that linked list is palindrome or not
+e37.c	Store student data in linked list and calculate no. of pass student if percentage > 40 % than pass
+
