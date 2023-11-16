@@ -1,0 +1,4 @@
+e1.c 	Implement a stack in an array A, using A[0] as the top
+e2.c	Implement a queue in an array such that if rear reaches the end , all elements are shifted left
+e3.c 	Implement a stack in array such that the stack starts from the last position of array.
+
